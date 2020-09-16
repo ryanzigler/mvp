@@ -1,4 +1,4 @@
-# Kickoff #
+# Sole Mate #
 
 <!--
 > This material was originally posted [here](http://www.quora.com/What-is-Amazons-approach-to-product-development-and-product-management). It is reproduced here for posterities sake.
@@ -17,32 +17,28 @@ Once the project moves into development, the press release can be used as a touc
  -->
 
 ## Heading ##
-  Kickoff
+  Sole Mate
 
 ## Sub-Heading ##
-  Dominate your Fantasy Football league using machine learning and the historical accurracy of fantasy experts
+  This one-stop sneaker raffle aggregator will allow you to take more loses on the latest drops than ever before.
 
 ## Summary ##
-  Tired of losing your fantasy football league and don't have the time to sift through mountains of information to findout who gives you the best chance to win each week?
-
-  Kickoff uses the historical accuracy of fantasy football experts and the power of machine learning to give you the best possible start/sit rankings available.
-
-  Let Kickoff make your leaguemates think you are a genius.
+  Are you tired of missing out on the latest sneaker drops from using only SNKRs and Adidas.com? Do you not have the time to scour Instagram and Twitter to find smaller retailers doing raffles? With Sole Mate, you'll be able to take more L's in raffles for the latest sneaker drops than ever before. Sole Mate allows you to quickly find and sign up for raffles on all the hottest sneaker releases.
 
 ## Problem ##
-  There are plenty of experts telling you who to start and who to sit, but who can you trust?
+  Between bots and physical retail store employees backdooring all their stock before release, your only (miniscule) chance of copping the latest kicks without paying hundreds (or thousands) of dollars for a bot (or developing your own) is to enter raffles; lots and lots of raffles. But you never know which retailers are going to be getting pairs to release and most of them only announce their raffles on Instagram.
 
 ## Solution ##
-  Put those experts predictions to the test and find out who are the best experts to use when making a decision between two players.
+  At Sole Mate, we scour the web, locate raffles, and aggregate them for you. Sole Mate allows you to spend more time entering raffles to increase your odds of not winning!
 
 ## Quote from You ##
-  > Kickoff will make your leaguemates cry and make you look like a genius. - Ryan Zigler
+  > Before creating Sole Mate, I used to wonder why I subjected myself to the torture of taking a few L's each week. But after creating Sole Mate, I wonder why I subject myself to the torture of taking DOZENS of L's each week. DOZENS! - Ryan Zigler
 
 ## How to Get Started ##
-  Using Kickoff is easy, simply used it's tier based output to choose who on your team to start!
+  Sole Mate is easy, simply head to the website, select the sneaker you want, and use the links to quickly and easily enter as many raffles as you want! Then just sit back and wait to see if the RNG is on your side!
 
 ## Customer Quote ##
-  > "Because of Kickoff, I went from the pernial bottom feeder to middle of the pack! But that is only because Kickoff can't help you draft... yet. " - Andy Joseph
+  > "Because of Sole Mate, I went from taking L's in two to three raffles each week to taking L's in 50-60 raffles each week -- while spending the same amoutn of time! " - Bob Loblaw
 
 ## Closing and Call to Action ##
-  Give Kickoff a try today.
+  Sole Mate is the perfect companion on your journey of never-ending disappointment.

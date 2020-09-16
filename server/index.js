@@ -20,7 +20,7 @@ app.get('/api/releases', (req, res) => {
 
 app.get('/api/raffles', (req, res) => {
   const { sneakerID } = req.body;
-  db.getRafflesByReleaseID(sneakerID, (err, data) => {
+  db.getRafflesBySneakerID(sneakerID, (err, data) => {
     if (err) {
       res.sendStatus(500);
     } else {
