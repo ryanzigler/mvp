@@ -1,7 +1,7 @@
 {
-  "name": "kickoff",
+  "name": "sole-mate",
   "version": "1.0.0",
-  "description": "Dominate your Fantasy Football league using machine learning and the historical accurracy of fantasy experts",
+  "description": "Retail raffle link aggregator for all the latest sneaker releases",
   "main": "index.js",
   "author": "",
   "license": "ISC",
